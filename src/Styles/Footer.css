@@ -1,0 +1,39 @@
+
+    .footer{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction : column ;
+        background-image: linear-gradient(#f1ecec, #6b6666);
+    }
+
+    .footer svg{
+        margin:10px;
+        font-size:40px;
+        cursor:pointer;
+        color: #946c51;
+    }
+
+    .footer p{
+        font-size:0.3em;
+        color:#130e0e;
+        opacity:0.7;
+        margin:5px;
+    }
+
+    #terms{
+        cursor: pointer;
+    }
+
+    #cright{
+        z-index:1;
+    }
+
+    .footer .Container{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    

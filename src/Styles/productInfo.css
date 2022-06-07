@@ -1,0 +1,19 @@
+.infoPage{
+    display: flex;
+    height:75vh;
+}
+
+.imageLeft{
+    margin:20px;
+}
+
+.infoRight{
+    margin:20px;
+    justify-content:center;
+    padding:20px;
+}
+
+.infoRight button{
+    border-radius: 15px;
+    background: rgb(146, 146, 167);
+  }

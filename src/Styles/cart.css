@@ -1,0 +1,17 @@
+.CartPage{
+    height:80vh;
+}
+
+.CartPage .empty {
+    text-align:center;
+    margin-top:10vh;
+}
+
+.empty img{
+    width:20%;
+    background: yellow;
+}
+
+.amount{
+    text-align:center;
+}

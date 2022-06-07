@@ -1,0 +1,56 @@
+
+    .contact{
+        height:80vh;
+        width:auto;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .title h1{
+        font: bold 2em 'Sans-serif' , Arial;
+        text-align: center;
+    }
+
+    .title p{
+        font-size: 0.6em;
+
+    }
+
+    .infobox p{
+        font: bold 1em 'Courier New', monospace;
+        margin-top:30px;
+    }
+
+    .infobox{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact_method{
+        width:400px;
+        border:1px solid;
+        box-sizing: border-box;
+        border-radius: 5px;
+    }
+
+    .content{
+        width:400px;
+        height:150px;
+        border:1px solid;
+        box-sizing: border-box;
+        resize:none;
+        border-radius: 5px;
+    }
+
+    .submit{
+        width:80px;
+        align-items: center;
+        justify-content: center;
+        margin:30px;
+        margin-left: 160px;
+        border-radius: 10px;
+        background: rgb(158, 136, 136);
+    }

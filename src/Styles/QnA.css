@@ -1,0 +1,50 @@
+    .QnA{
+        height:auto;
+        width:auto;
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+
+    .QnA .title{
+        padding:50px;
+        text-align: center;
+    }
+
+    .QnA .title h1{
+        font: bold 3em 'Sans-serif' , Arial;
+        
+    }
+
+    .title p{
+        font-size: 0.6em;
+    }
+
+    .linkcontact{
+        color: black;
+    }
+
+    .FAQ-box{
+        padding-bottom:5px;
+        padding-left: 20px;
+        padding-right: 20px;
+        width: 1000px;
+
+    }
+
+    .faq-body .faq-row {
+        padding: 0.75em 0;
+    }
+
+    .faq-body .faq-row .row-title{
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .faq-body .faq-row .row-content-text {
+        padding: 2em !important;
+        font-size: medium !important;
+        color: black !important;
+    }
